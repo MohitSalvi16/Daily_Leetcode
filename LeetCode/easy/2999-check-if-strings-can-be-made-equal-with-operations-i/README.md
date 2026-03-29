@@ -5,9 +5,9 @@
 | **Difficulty** | Easy |
 | **Tags** | `String` |
 | **Language** | javascript |
-| **Runtime** | 0 ms |
-| **Memory** | 55.6 MB |
-| **Synced** | 2026-03-29T20:35:53.582Z |
+| **Runtime** | 1 ms |
+| **Memory** | 55.9 MB |
+| **Synced** | 2026-03-29T20:38:54.766Z |
 
 ## Links
 
