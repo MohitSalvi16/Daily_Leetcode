@@ -4,10 +4,10 @@
 |--------|-------|
 | **Difficulty** | Easy |
 | **Tags** | `String` |
-| **Language** | cpp |
+| **Language** | javascript |
 | **Runtime** | 0 ms |
-| **Memory** | 52.7 MB |
-| **Synced** | 2026-03-29T20:35:48.833Z |
+| **Memory** | 55.6 MB |
+| **Synced** | 2026-03-29T20:35:53.582Z |
 
 ## Links
 
