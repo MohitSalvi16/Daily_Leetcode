@@ -6,8 +6,8 @@
 | **Tags** | `Array`, `Hash Table`, `Simulation` |
 | **Language** | cpp |
 | **Runtime** | 19 ms |
-| **Memory** | 37.9 MB |
-| **Synced** | 2026-04-06T18:11:18.326Z |
+| **Memory** | 37.7 MB |
+| **Synced** | 2026-04-06T18:35:18.489Z |
 
 ## Links
 
