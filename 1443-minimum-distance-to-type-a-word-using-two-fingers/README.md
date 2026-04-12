@@ -5,9 +5,9 @@
 | **Difficulty** | Hard |
 | **Tags** | `String`, `Dynamic Programming` |
 | **Language** | cpp |
-| **Runtime** | 0 ms |
-| **Memory** | 8.6 MB |
-| **Synced** | 2026-04-12T17:39:43.853Z |
+| **Runtime** | 4 ms |
+| **Memory** | 9.5 MB |
+| **Synced** | 2026-04-12T17:41:36.233Z |
 
 ## Links
 
