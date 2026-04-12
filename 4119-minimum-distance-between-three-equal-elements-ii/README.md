@@ -5,9 +5,9 @@
 | **Difficulty** | Medium |
 | **Tags** | `Array`, `Hash Table` |
 | **Language** | cpp |
-| **Runtime** | 243 ms |
-| **Memory** | 298.9 MB |
-| **Synced** | 2026-04-11T18:01:06.217Z |
+| **Runtime** | 390 ms |
+| **Memory** | 343.4 MB |
+| **Synced** | 2026-04-12T07:49:37.377Z |
 
 ## Links
 

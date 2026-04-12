@@ -1,29 +1,20 @@
 class Solution {
 public:
     int minimumDistance(vector<int>& nums) {
-        vector<array<int, 2>> V(100001, {-1, -1});
+        int result=INT_MAX;
 
-        int Ans = 1e9;
+        unordered_map<int, vector<int>> mp;
+        int n=nums.size();
+        for(int k=0;k<n;k++){
+            mp[nums[k]].push_back(k);
+            if(mp[nums[k]].size()>=3){
+                vector<int> &vec=mp[nums[k]];
+                int siz=vec.size();
+                int i=vec[siz-3];
 
-        for (int i = 0; i < nums.size(); i++) {
-            int x = nums[i];
-
-            if (V[x][0] == -1) {
-                V[x][0] = i;
-            } 
-            else if (V[x][1] == -1) {
-                V[x][1] = i;
-            } 
-            else {
-                // Directly using derived formula
-                Ans = min(Ans, 2 * (i - V[x][0]));
-
-                // shift window
-                V[x][0] = V[x][1];
-                V[x][1] = i;
+                result=min(result,2*(k-i));
             }
         }
-
-        return (Ans == 1e9) ? -1 : Ans;
+        return result==INT_MAX ? -1 : result;
     }
 };
