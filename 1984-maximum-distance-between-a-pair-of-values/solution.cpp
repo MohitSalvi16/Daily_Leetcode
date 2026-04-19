@@ -4,17 +4,19 @@ public:
         int n = nums1.size();
 
         int m = nums2.size();
-        int ans = INT_MIN;
-        for (int j = 0; j < m; j++) {
-            for (int i = 0; i <= j && i<n; i++) {
-                if (nums1[i]<=nums2[j]) {
-                    ans = max(ans, j - i);
-                }
+        int ans = 0;
+        int i=0;
+        int j=0;
+        while(i<n & j<m){
+            if(nums2[j]<nums1[i]){
+                i++;
+            }
+            else{
+                ans=max(ans,j-i);
+                j++;
             }
         }
-        if(ans==INT_MIN){
-            return 0;
-        }
+  
         return ans;
     }
 };

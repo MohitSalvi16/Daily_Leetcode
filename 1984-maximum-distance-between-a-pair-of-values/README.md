@@ -5,9 +5,9 @@
 | **Difficulty** | Medium |
 | **Tags** | `Array`, `Two Pointers`, `Binary Search` |
 | **Language** | cpp |
-| **Runtime** | 0 ms |
-| **Memory** | 8.2 MB |
-| **Synced** | 2026-04-19T08:42:37.397Z |
+| **Runtime** | 10 ms |
+| **Memory** | 102.3 MB |
+| **Synced** | 2026-04-19T08:43:39.804Z |
 
 ## Links
 
