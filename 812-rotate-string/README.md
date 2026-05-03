@@ -6,8 +6,8 @@
 | **Tags** | `String`, `String Matching` |
 | **Language** | cpp |
 | **Runtime** | 0 ms |
-| **Memory** | 8.2 MB |
-| **Synced** | 2026-05-03T09:03:22.107Z |
+| **Memory** | 7.8 MB |
+| **Synced** | 2026-05-03T09:04:49.255Z |
 
 ## Links
 
