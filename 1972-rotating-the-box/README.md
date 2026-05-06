@@ -5,9 +5,9 @@
 | **Difficulty** | Medium |
 | **Tags** | `Array`, `Two Pointers`, `Matrix` |
 | **Language** | cpp |
-| **Runtime** | 60 ms |
-| **Memory** | 56.9 MB |
-| **Synced** | 2026-05-06T16:45:08.744Z |
+| **Runtime** | 7 ms |
+| **Memory** | 56.6 MB |
+| **Synced** | 2026-05-06T16:59:30.361Z |
 
 ## Links
 
