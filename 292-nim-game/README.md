@@ -6,8 +6,8 @@
 | **Tags** | `Math`, `Brainteaser`, `Game Theory` |
 | **Language** | cpp |
 | **Runtime** | 0 ms |
-| **Memory** | 7.6 MB |
-| **Synced** | 2026-05-07T04:24:56.487Z |
+| **Memory** | 7.8 MB |
+| **Synced** | 2026-05-07T04:31:08.515Z |
 
 ## Links
 

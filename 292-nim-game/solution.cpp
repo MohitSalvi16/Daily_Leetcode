@@ -4,7 +4,7 @@ public:
         if(n<=3){
             return true;
         }
-        if(n%3==0){
+        if(n%2!=0){
             return true;
         }
 
