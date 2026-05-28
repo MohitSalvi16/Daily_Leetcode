@@ -5,9 +5,9 @@
 | **Difficulty** | Medium |
 | **Tags** | `Hash Table`, `String` |
 | **Language** | cpp |
-| **Runtime** | 59 ms |
+| **Runtime** | 67 ms |
 | **Memory** | 23.8 MB |
-| **Synced** | 2026-05-27T18:21:34.918Z |
+| **Synced** | 2026-05-28T04:35:12.048Z |
 
 ## Links
 
