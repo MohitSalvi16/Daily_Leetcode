@@ -5,9 +5,9 @@
 | **Difficulty** | Medium |
 | **Tags** | `Array`, `Greedy` |
 | **Language** | cpp |
-| **Runtime** | 0 ms |
-| **Memory** | 103.5 MB |
-| **Synced** | 2026-06-09T18:25:49.013Z |
+| **Runtime** | 2 ms |
+| **Memory** | 103.7 MB |
+| **Synced** | 2026-06-10T18:24:58.998Z |
 
 ## Links
 

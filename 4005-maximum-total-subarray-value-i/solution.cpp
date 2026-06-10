@@ -1,10 +1,7 @@
 class Solution {
 public:
-    long long maxTotalValue(vector<int>& nums, int k) {
-      int maxi=INT_MIN,mini=INT_MAX;
-      for(int x:nums){
-        maxi=max(maxi,x);mini=min(mini,x);
-      }
-      return 1LL*k*(maxi-mini);
+    static long long maxTotalValue(vector<int>& nums, int k) {
+        auto [m, M]=minmax_element(nums.begin(), nums.end());
+        return (long long)k*(*M-*m);
     }
 };
