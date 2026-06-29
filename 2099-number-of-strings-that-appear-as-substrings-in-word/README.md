@@ -6,8 +6,8 @@
 | **Tags** | `Array`, `String` |
 | **Language** | cpp |
 | **Runtime** | 0 ms |
-| **Memory** | 11.4 MB |
-| **Synced** | 2026-06-29T18:22:18.629Z |
+| **Memory** | 8.2 MB |
+| **Synced** | 2026-06-29T18:53:38.450Z |
 
 ## Links
 
