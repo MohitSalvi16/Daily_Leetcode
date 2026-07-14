@@ -5,9 +5,9 @@
 | **Difficulty** | Hard |
 | **Tags** | `Array`, `Math`, `Dynamic Programming`, `Number Theory` |
 | **Language** | cpp |
-| **Runtime** | 0 ms |
-| **Memory** | 9.1 MB |
-| **Synced** | 2026-07-14T20:10:17.622Z |
+| **Runtime** | 1091 ms |
+| **Memory** | 292.1 MB |
+| **Synced** | 2026-07-14T20:11:22.251Z |
 
 ## Links
 
