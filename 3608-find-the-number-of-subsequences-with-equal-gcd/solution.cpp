@@ -1,26 +1,31 @@
 class Solution {
 public:
+    int subsequencePairCount(vector<int>& nums) {
     int Mod=1e9+7;
-    int t[201][201][201];
-    int solve(vector<int>& nums,int i, int first,int second){
-    if(i==nums.size()){
+    int n=nums.size();
+    int maxEl=*max_element(begin(nums),end(nums));
+    int t[n+1][maxEl+1][maxEl+1];
+
+    for(int first=0;first<=maxEl;first++){
+      for(int second=0;second<=maxEl;second++){
         bool isequal=(first!=0 && second!=0);
         bool isgcdequal=(first==second);
 
-        return (isequal && isgcdequal)?1:0;
-    }
-    if(t[i][first][second]!=-1){
-        return t[i][first][second];
-    }
-    int skip=solve(nums,i+1,first,second);
-    int take1=solve(nums,i+1,__gcd(first,nums[i]),second);
-    int take2=solve(nums,i+1,first,__gcd(second,nums[i]));
-
-    return t[i][first][second]=(0LL+skip+take1+take2)% Mod;
+        t[n][first][second]= (isequal && isgcdequal)?1:0;
+      }
     }
 
-    int subsequencePairCount(vector<int>& nums) {
-        memset(t,-1,sizeof(t));
-        return solve(nums,0,0,0);
+    for(int i=n-1;i>=0;i--){
+      for(int first=maxEl;first>=0;first--){
+      for(int second=maxEl;second>=0;second--){
+                int skip=t[i+1][first][second];
+                int take1=t[i+1][__gcd(first,nums[i])][second];
+                int take2=t[i+1][first][__gcd(second,nums[i])];
+
+                t[i][first][second]=(0LL+skip+take1+take2)% Mod;
+           }
+        }
+    }
+        return t[0][0][0];
     }
 };
