@@ -6,8 +6,8 @@
 | **Tags** | `Array`, `Math`, `Dynamic Programming`, `Number Theory` |
 | **Language** | cpp |
 | **Runtime** | 0 ms |
-| **Memory** | 8 MB |
-| **Synced** | 2026-07-14T19:52:12.387Z |
+| **Memory** | 8.3 MB |
+| **Synced** | 2026-07-14T19:54:45.864Z |
 
 ## Links
 
