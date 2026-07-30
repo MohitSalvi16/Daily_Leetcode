@@ -6,8 +6,8 @@
 | **Tags** | `Math`, `String`, `Greedy` |
 | **Language** | cpp |
 | **Runtime** | 0 ms |
-| **Memory** | 7.8 MB |
-| **Synced** | 2026-07-30T18:55:59.752Z |
+| **Memory** | 7.7 MB |
+| **Synced** | 2026-07-30T18:57:19.600Z |
 
 ## Links
 
