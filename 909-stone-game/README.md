@@ -6,8 +6,8 @@
 | **Tags** | `Array`, `Math`, `Dynamic Programming`, `Game Theory` |
 | **Language** | cpp |
 | **Runtime** | 0 ms |
-| **Memory** | 9 MB |
-| **Synced** | 2026-08-02T17:33:16.156Z |
+| **Memory** | 10.3 MB |
+| **Synced** | 2026-08-02T17:38:16.420Z |
 
 ## Links
 
