@@ -5,9 +5,9 @@
 | **Difficulty** | Hard |
 | **Tags** | `Array`, `Math`, `Dynamic Programming`, `Minimax`, `Game Theory`, `Zero-Sum Game` |
 | **Language** | cpp |
-| **Runtime** | 40 ms |
-| **Memory** | 142.4 MB |
-| **Synced** | 2026-08-03T17:14:57.892Z |
+| **Runtime** | 0 ms |
+| **Memory** | 8.2 MB |
+| **Synced** | 2026-08-03T17:23:44.305Z |
 
 ## Links
 
