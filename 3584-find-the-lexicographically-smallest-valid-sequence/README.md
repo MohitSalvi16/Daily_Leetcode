@@ -5,9 +5,9 @@
 | **Difficulty** | Medium |
 | **Tags** | `Two Pointers`, `String`, `Dynamic Programming`, `Greedy` |
 | **Language** | cpp |
-| **Runtime** | 38 ms |
-| **Memory** | 95.6 MB |
-| **Synced** | 2026-08-08T17:10:03.786Z |
+| **Runtime** | 35 ms |
+| **Memory** | 95.3 MB |
+| **Synced** | 2026-08-09T09:10:20.878Z |
 
 ## Links
 
