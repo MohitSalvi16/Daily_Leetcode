@@ -3,19 +3,20 @@ public:
     int maxSubarrayLength(vector<int>& nums, int k) {
         unordered_map<int,int> mp;
         int n=nums.size();
-        int size=0;
-        int maxi=0;
-        int extra=0;
+        int result=0;
+        int i=0;
+        int j=0;
 
-        for(int i=0;i<n;i++){
-        mp[nums[i]]++;
-        maxi=max(maxi,mp[nums[i]]);
-        if(maxi>k && i<n){
-        extra=max(extra,size);    
-        size=0; 
+        while(j<n){
+            mp[nums[j]]++;
+
+            while(i<j && mp[nums[j]]>k){
+                mp[nums[i]]--;
+                i++;
+            }
+               result=max(result,j-i+1);
+               j++;
         }
-        size++;
-        } 
-        return extra;
+        return result;
     }
 };
