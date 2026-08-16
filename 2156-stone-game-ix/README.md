@@ -5,9 +5,9 @@
 | **Difficulty** | Medium |
 | **Tags** | `Array`, `Math`, `Greedy`, `Minimax`, `Counting`, `Game Theory`, `Nim Game`, `Zero-Sum Game` |
 | **Language** | cpp |
-| **Runtime** | 0 ms |
-| **Memory** | 131.4 MB |
-| **Synced** | 2026-08-16T10:49:09.201Z |
+| **Runtime** | 7 ms |
+| **Memory** | 131.2 MB |
+| **Synced** | 2026-08-16T17:54:07.303Z |
 
 ## Links
 
