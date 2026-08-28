@@ -1,0 +1,30 @@
+class Solution {
+public:
+    bool isValid(string word) {
+        int n = word.size();
+        if (n < 3) {
+            return false;
+        }
+
+        bool isVowel=false;
+        bool isConsonent=false;
+
+        for(auto ch: word){
+
+            if(isalpha(ch)){
+            ch=tolower(ch);
+
+            if(ch=='a' || ch=='e' || ch=='i' || ch=='o' || ch=='u'){
+                isVowel=true;
+            }else{
+                isConsonent=true;
+            }
+         }
+            else if(!isdigit(ch)){
+             return false;
+            }
+
+        }
+       return isVowel && isConsonent;
+    }
+};
