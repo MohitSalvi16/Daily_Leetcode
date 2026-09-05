@@ -6,8 +6,8 @@
 | **Tags** | `String`, `Simulation` |
 | **Language** | cpp |
 | **Runtime** | 0 ms |
-| **Memory** | 8.3 MB |
-| **Synced** | 2026-09-05T13:38:26.386Z |
+| **Memory** | 8.2 MB |
+| **Synced** | 2026-09-05T13:44:01.214Z |
 
 ## Links
 

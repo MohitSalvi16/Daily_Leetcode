@@ -10,18 +10,19 @@ public:
         if(caption[i]==' '){
            continue;
         }
+        if(ans.length()==100){
+            break;
+        }
         if(i==0){
             ans=ans+(char)tolower(caption[i]);
         }
 
-        else if(i>0 && caption[i-1]==' '){
+        else if(caption[i-1]==' '){
             ans=ans+(char)toupper(caption[i]);
     
         }
         else{
-           if(ans.length()<100){
            ans=ans+caption[i];
-           }
         }
         }
 
