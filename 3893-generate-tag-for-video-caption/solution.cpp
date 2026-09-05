@@ -13,7 +13,8 @@ public:
         if(ans.length()==100){
             break;
         }
-        if(i==0){
+
+        if(ans.length()==1){
             ans=ans+(char)tolower(caption[i]);
         }
 
@@ -22,7 +23,7 @@ public:
     
         }
         else{
-           ans=ans+caption[i];
+           ans=ans+(char)tolower(caption[i]);
         }
         }
 
