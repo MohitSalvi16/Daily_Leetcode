@@ -6,8 +6,8 @@
 | **Tags** | `Math` |
 | **Language** | cpp |
 | **Runtime** | 0 ms |
-| **Memory** | 8.1 MB |
-| **Synced** | 2026-09-06T07:41:53.598Z |
+| **Memory** | 7.6 MB |
+| **Synced** | 2026-09-06T07:43:21.768Z |
 
 ## Links
 
