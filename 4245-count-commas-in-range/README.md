@@ -5,9 +5,9 @@
 | **Difficulty** | Easy |
 | **Tags** | `Math` |
 | **Language** | cpp |
-| **Runtime** | 0 ms |
-| **Memory** | 9.4 MB |
-| **Synced** | 2026-09-08T13:36:33.300Z |
+| **Runtime** | 785 ms |
+| **Memory** | 10 MB |
+| **Synced** | 2026-09-08T13:37:47.043Z |
 
 ## Links
 
