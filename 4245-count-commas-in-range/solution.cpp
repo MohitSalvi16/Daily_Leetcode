@@ -7,17 +7,13 @@ public:
         int noOfCommas=0;
     
         if(size>3){
-        noOfCommas = (size / 2) - 1;
+        noOfCommas = (size-1)/3;
         }
 
         return noOfCommas;
     }
 
     int countCommas(int n) {
-
-        if(n==100000){
-            return 99001;
-        }
 
         int result = 0;
 
