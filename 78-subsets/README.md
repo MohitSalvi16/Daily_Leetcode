@@ -5,9 +5,9 @@
 | **Difficulty** | Medium |
 | **Tags** | `Array`, `Backtracking`, `Bit Manipulation` |
 | **Language** | cpp |
-| **Runtime** | 5 ms |
-| **Memory** | 15.5 MB |
-| **Synced** | 2026-11-02T18:27:00.013Z |
+| **Runtime** | 0 ms |
+| **Memory** | 8.1 MB |
+| **Synced** | 2026-11-02T18:39:10.819Z |
 
 ## Links
 
