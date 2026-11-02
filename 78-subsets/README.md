@@ -6,8 +6,8 @@
 | **Tags** | `Array`, `Backtracking`, `Bit Manipulation` |
 | **Language** | cpp |
 | **Runtime** | 0 ms |
-| **Memory** | 8.1 MB |
-| **Synced** | 2026-11-02T18:39:10.819Z |
+| **Memory** | 8.3 MB |
+| **Synced** | 2026-11-02T18:42:44.823Z |
 
 ## Links
 
