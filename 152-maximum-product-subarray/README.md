@@ -5,9 +5,9 @@
 | **Difficulty** | Medium |
 | **Tags** | `Array`, `Dynamic Programming` |
 | **Language** | cpp |
-| **Runtime** | 408 ms |
-| **Memory** | 17.9 MB |
-| **Synced** | 2026-11-08T07:31:03.637Z |
+| **Runtime** | 0 ms |
+| **Memory** | 8.2 MB |
+| **Synced** | 2026-11-09T05:16:23.938Z |
 
 ## Links
 
