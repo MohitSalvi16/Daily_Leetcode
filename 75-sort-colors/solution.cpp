@@ -20,10 +20,10 @@ public:
         for(int j=0;j<zero;j++){
         nums[j]=0;
         }
-        for(int k=zero;k<zero+second;k++){
+        for(int k=zero;k<zero+first;k++){
         nums[k]=1;
         }
-        for(int l=zero+second;l<n;l++){
+        for(int l=zero+first;l<n;l++){
         nums[l]=2;
         }
     }
